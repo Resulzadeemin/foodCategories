@@ -1,4 +1,4 @@
-
+{
             "foodCategories": [
             {
               "category":"dessert",
@@ -44,5 +44,3 @@
             }
           ]
         }
-      ]
-    }
