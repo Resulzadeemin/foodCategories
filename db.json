@@ -1,46 +1,46 @@
 {
-            "foodCategories": [
-            {
-              "category":"dessert",
-              "id": 1,
-              "url": "https://html.webinane.com/assets/images/resources/recipe-list2.png",
-              "name":"Vaffel Dessert"
-            },
-            {
-              "category":"dessert",
-              "id": 2,
-              "url": "https://html.webinane.com/assets/images/resources/recipe-list4.png",
-              "name":"Dessert Strawberry"
-            },
-            {
-              "category":"dessert",
-              "id": 3,
-              "url": "https://html.webinane.com/assets/images/resources/recipe-list5.png",
-              "name":"Oats Dessert"
-            },
-            {
-              "category":"fish",
-              "id": 4,
-              "url": "https://html.webinane.com/assets/images/resources/recipe-list1.png",
-              "name":"Fish & Vegetables"
-            },    
-            {
-              "category":"fish",
-              "id": 5,
-              "url": "https://html.webinane.com/assets/images/resources/recipe-list3.png",
-              "name":"Fish & Vegetables"
-            },   
-            {
-              "category":"meat",
-              "id": 6,
-              "url": "https://html.webinane.com/assets/images/resources/recipe-list6.png",
-              "name":"Roasted Meat & Vegetables"
-            },       
-            {
-              "category":"chicken",
-              "id": 7,
-              "url": "https://html.webinane.com/assets/images/resources/recipe2.png",
-              "name":"Whole Chicken"
-            }
-          ]
-        }
+  "foodCategories": [
+  {
+    "category":"dessert",
+    "id": 1,
+    "url": "https://html.webinane.com/assets/images/resources/recipe-list2.png",
+    "name":"Vaffel Dessert"
+  },
+  {
+    "category":"dessert",
+    "id": 2,
+    "url": "https://html.webinane.com/assets/images/resources/recipe-list4.png",
+    "name":"Dessert Strawberry"
+  },
+  {
+    "category":"dessert",
+    "id": 3,
+    "url": "https://html.webinane.com/assets/images/resources/recipe-list5.png",
+    "name":"Oats Dessert"
+  },
+  {
+    "category":"fish",
+    "id": 4,
+    "url": "https://html.webinane.com/assets/images/resources/recipe-list1.png",
+    "name":"Fish & Vegetables"
+  },    
+  {
+    "category":"fish",
+    "id": 5,
+    "url": "https://html.webinane.com/assets/images/resources/recipe-list3.png",
+    "name":"Fish & Vegetables"
+  },   
+  {
+    "category":"meat",
+    "id": 6,
+    "url": "https://html.webinane.com/assets/images/resources/recipe-list6.png",
+    "name":"Roasted Meat & Vegetables"
+  },       
+  {
+    "category":"chicken",
+    "id": 7,
+    "url": "https://html.webinane.com/assets/images/resources/recipe2.png",
+    "name":"Whole Chicken"
+  }
+]
+}
