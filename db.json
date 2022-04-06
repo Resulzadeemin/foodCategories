@@ -4,13 +4,15 @@
     "category":"dessert",
     "id": 1,
     "url": "https://html.webinane.com/assets/images/resources/recipe-list2.png",
-    "name":"Vaffel Dessert"
+    "name":"Vaffel Dessert",
+    "rate":0
   },
   {
     "category":"dessert",
     "id": 2,
     "url": "https://html.webinane.com/assets/images/resources/recipe-list4.png",
     "name":"Dessert Strawberry"
+    "rate":0
   },
   {
     "category":"dessert",
